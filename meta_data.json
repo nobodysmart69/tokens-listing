@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "Tether (USDT) is a stablecoin pegged to the US Dollar",
+  "image": "ipfs://QmRkenevKAWRfKMt6TZ6qqNR29dZ41zX4STG5RkufmcTBD",
+  "logoURI": "ipfs://QmRkenevKAWRfKMt6TZ6qqNR29dZ41zX4STG5RkufmcTBD",
+  "metaURI": "ipfs://bafkreieitwx5gofmbmnheih774zbszjn7dazizey4kujdqfjjacivpaonu",
+  "website": "https://tether.to",
+  "twitter": "https://x.com/tether",
+  "telegram": "",
+  "tags": ["stablecoin"]
+}
